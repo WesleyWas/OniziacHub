@@ -1,0 +1,6 @@
+name: FinalHub
+version: 0.1
+author: Weswaas
+main: com.weswaas.hub.Hub
+commands:
+  fly:
